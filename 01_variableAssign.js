@@ -29,11 +29,11 @@ gender ="Male";
 isMarried = "No";
 
 console.log("First Name :",firstName);
-console.log("Last Name :",lastName);
-console.log("Age :",age);
-console.log("Address :",address);
-console.log("Pincode :",pinCode);
-console.log("Gender :",gender);
+console.log("Last Name  :",lastName);
+console.log("Age        :",age);
+console.log("Address    :",address);
+console.log("Pincode    :",pinCode);
+console.log("Gender     :",gender);
 console.log("Is Married :",isMarried);
 
 
